@@ -13,8 +13,10 @@
   "author": "MosTafa",
   "license": "ISC",
   "dependencies": {
+    "colors": "^1.4.0",
     "dotenv": "^16.0.2",
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "mongoose": "^6.5.5"
   },
   "devDependencies": {
     "concurrently": "^7.3.0",
